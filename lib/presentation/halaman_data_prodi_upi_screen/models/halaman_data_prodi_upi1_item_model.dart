@@ -1,0 +1,1 @@
+class HalamanDataProdiUpi1ItemModel {}
